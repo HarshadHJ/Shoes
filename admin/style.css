@@ -1,0 +1,9 @@
+.field_error{
+	color: red;
+	margin-top: 15px;
+}
+.box-link{
+	font-weight: 600;
+	font-size: 20px;
+	padding: 5px 0;
+}
